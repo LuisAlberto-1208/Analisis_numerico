@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606265525 source:c:\users\52445\desktop\interpolacion_lagrange_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
